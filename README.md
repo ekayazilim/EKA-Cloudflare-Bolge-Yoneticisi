@@ -14,7 +14,7 @@ EKA Cloudflare Bölge Yöneticisi, Cloudflare DNS kayıtlarınızı toplu olarak
 ## Yerel Kurulum ve Çalıştırma
 1. Bu projeyi klonlayın:
    ```
-   git clone https://github.com/ekayazilim/cloudflare-zone-manager.git
+   git clone https://github.com/ekayazilim/EKA-Cloudflare-Bolge-Yoneticisi.git
    cd cloudflare-zone-manager
    ```
 
